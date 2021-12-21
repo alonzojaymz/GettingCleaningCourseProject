@@ -12,15 +12,17 @@ This Code Book pertains to a tidy data set that takes from a broader data set. A
 
 CODEBOOK
 ________
-Number of variables/columns: 68
+Number of variables/columns: 68                                                                                              
 Number of observations: 180 (30 subjects * 6 activities)
-
+________
 VARIABLES/COLUMNS
-Subject: 1 of the 30 subjects the given observation pertains to.
-Activity: The activity the subject was performing when the observation was recorded.
+________
+Subject: 1 of the 30 subjects the given observation pertains to.                                                                             
+Activity: The activity the subject was performing when the observation was recorded.                                         
 The further 66 variables are the means and standard deviations data.
-
+________
 OBSERVATIONS/ROWS
+________
 Each row corresponds to a given subject and the activity they were performing for the given measurements.
 
 
