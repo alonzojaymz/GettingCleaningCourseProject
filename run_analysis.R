@@ -44,5 +44,4 @@ tidyData <- as.data.frame(tidyData)
 
 write.table(tidyData,"./tidyData.txt", row.names = FALSE) #write tidy data to a txt file
 print(tidyData)
-print(ncol(tidyData))
 
